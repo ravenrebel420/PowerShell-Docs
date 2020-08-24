@@ -1,6 +1,5 @@
 {
     "build": {
-        "exportRawModel": true,
         "dest": "pscore-reference",
         "markdownEngineName": "markdig",
         "overwrite": [],
